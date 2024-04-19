@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bushra-id&label=Profile%20views&color=0e75b6&style=flat" alt="bushra-id" /> </p>
 
 - 📫 How to reach me **itechbilal722@gmail.com**
--✨ All my projects are available at [www.linkedin.com/in/itz-bushra-7a3626301]
+  
+-✨ All my projects are available at www.linkedin.com/in/itz-bushra-7a3626301
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
