@@ -1,3 +1,5 @@
+<img src ="![Navy Blue Futuristic Virtual Technology Banner](https://github.com/bushra-id/bushra-id/assets/161571800/2393c678-b256-41f6-81d1-e15e633e70c4)">
+
 <h1 align="center">Hi 👋, I'm Bushra</h1>
 <h3 align="center">I'm passionate learner diving into the world of programming, focusing on a variety of programming languages and technologies.</h3>
 
